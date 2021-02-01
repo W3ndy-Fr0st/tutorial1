@@ -1,0 +1,30 @@
+{
+    "name": "GaiMAssembly",
+    "references": [
+        "GUID:478a2357cc57436488a56e564b08d223"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "iOS",
+        "LinuxStandalone64",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
